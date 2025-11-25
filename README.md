@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehrshad Khodavirdizadeh</h1>
+<h1 align="center">Hi 👋, I'm Mehrshad</h1>
 <h3 align="center">A passionate Mobile Applications Developer from Iran</h3>
 
 <p align="left"> <a href="https://twitter.com/mehrshad_khv" target="blank"><img src="https://img.shields.io/twitter/follow/mehrshad_khv?logo=twitter&style=for-the-badge" alt="mehrshad_khv" /></a> </p>
