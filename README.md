@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mehrshad_khv" target="blank"><img src="https://img.shields.io/twitter/follow/mehrshad_khv?logo=twitter&style=for-the-badge" alt="mehrshad_khv" /></a> </p>
 
-- 🔭 I’m currently working on [BMI Calculator](https://github.com/mehrshadkhv/BMI-Calculator)
+- 🔭 I’m currently working on [Aviz](https://github.com/mehrshadkhv/Aviz)
 
 - 🌱 I’m currently learning **Dart & Flutter**
 
